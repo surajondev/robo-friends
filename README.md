@@ -21,7 +21,7 @@ This repositroy is using react to develop app that has list of robots that can b
 We would appreciate if you decide to improve the repository.
 If so, Thank You in advance.
 
-Read [`CONTRIBUTION`](https://github.com/surajondev/covid19-info/blob/master/CONTRIBUTION.md) for more details.
+Read [`CONTRIBUTION`](https://github.com/surajondev/robo-friends/blob/master/CONTRIBUTION.md) for more details.
 
 ## Licence
-This is distributed under MIT Licence. For more details read [`LICENCE`](https://github.com/surajondev/covid19-info/blob/master/LICENSE)
+This is distributed under MIT Licence. For more details read [`LICENCE`](https://github.com/surajondev/robo-friends/blob/master/LICENSE)
