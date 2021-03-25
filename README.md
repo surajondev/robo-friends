@@ -11,7 +11,7 @@ This repositroy is using react to develop app that has list of robots that can b
 
 ## Installation 
 - Fork the repo
-- Clone this repo using `git clone https://github.com/surajondev/covid19-info.git`
+- Clone this repo using `git clone https://github.com/surajondev/robo-friends.git`
 - Change Directory to using `cd covid19-info`
 - Run the following command in terminal
   - `npm install`
